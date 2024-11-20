@@ -6,3 +6,5 @@ Tech used in the repo:
    > Streamlit for UI # chat_genai
 
 Run "streamlit run path_to_main.py"
+
+![alt text](<Screenshot 2024-11-20 233258.png>)
